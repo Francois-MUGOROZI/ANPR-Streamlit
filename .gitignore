@@ -1,0 +1,7 @@
+venv
+data
+.env
+services/__pycache__
+pages/__pycache__
+temp
+venv

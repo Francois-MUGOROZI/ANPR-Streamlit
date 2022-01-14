@@ -1,0 +1,4 @@
+detectron2==0.6
+easyocr==1.4.1
+opencv_python_headless==4.5.4.60
+streamlit==1.3.0
